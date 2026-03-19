@@ -36,7 +36,7 @@ Abaixo estão as capturas de tela demonstrando a adaptação do layout aos 3 bre
 
 1. Clone este repositório público:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/dashboard-responsivo-fernando.git](https://github.com/SEU_USUARIO/dashboard-responsivo-fernando.git)
+   git clone (https://github.com/FeVenttura/dashboard-responsivo-fernando.git)
 ## 🚀 Instruções de Execução
 
 **Pré-requisitos:** Ter o Flutter SDK instalado e configurado em sua máquina.
