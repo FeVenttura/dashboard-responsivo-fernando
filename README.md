@@ -36,6 +36,6 @@ Abaixo estão as capturas de tela demonstrando a adaptação do layout aos 3 bre
 1. Clone este repositório público:
    ```bash
    git clone 
-2. cd DASHBOARD_RESPONSIVO
+2. cd dashboard-responsivo-fernando
 3. flutter pub get
 4. flutter run
